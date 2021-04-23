@@ -28,7 +28,7 @@ SITEMAP = {
     }
 }
 
-HOME_COVER = 'https://i.pinimg.com/originals/43/2b/a1/432ba1b6206dfa853b89ceb05cfcfae7.jpg'
+HOME_COVER = 'https://i.pinimg.com/originals/ad/68/aa/ad68aaf3aba030a1386f72a3b7162024.jpg'
 
 HOME_COLOR = 'black'
 COLOR_SCHEME_CSS = 'github.css'
