@@ -20,12 +20,15 @@ cover: https://images.unsplash.com/photo-1531167599833-609a45d3d903?ixid=MnwxMjA
 
 >The next moment the dead blacked void came back and covered everything. The ground beneath me disappeared and the abyss engulfed me.”
 
-About a year ago I had dreamt this which still haunts me. This dream stands out from the rest of my dreams that I could recall because I believe it marked the beginning of my journey into nihilism.
+About a year ago I dreamt this dream which still haunts me. This dream stands out from the rest of my dreams that I could recall because I believe it marked the beginning of my journey into nihilism.
 
-I have been influenced by religion and its moral values and virtues from very early in my life. Every decision and every act that I made has been influenced by religion on some level. But now, as I began to rationally disintegrate this morale, I found such values to be misleading. This new way of looking into life is a great revelation but it certainly made all the values and virtues meaningless.
+I have always been influenced by religion and its moral values and virtues. Every decision that I made has been influenced by religion on some level. But now, as I began to rationally disintegrate this moral value, I found such values to be misleading. This new way of looking into life is a great revelation but it certainly made all the values and virtues meaningless.
 
-I could finally relate to the sentiment of Freidrich Nietzche’s infamous quote, “God is dead. God remains dead. And we have killed him…”. After this nihilistic vision, I became the sinner of all sinners because I killed the god who was so dear to me for most of my life. But was I a sinner? After all, this was just the death of my religious belief.
+I could finally relate to the sentiment of Freidrich Nietzche’s infamous quote, 
+>“God is dead. God remains dead. And we have killed him…”.
 
-Is there such a thing called sin or it is a mere concept the religion created to keep humanity in order? Is “sin” just another pillar of religion, the same religion whose whole foundation I destroyed? Is there any moral principle left to guide me into the eternal truth or was there any moral to begin with? Is there anything in existence that has an inherent value?
+After this nihilistic vision, I became the sinner of all sinners because I killed the god who was so dear to me for most of my life. But was I a sinner? After all, the concept of sin must be irrelevant now that my faith collapsed.
 
-There are still many questions left unanswered, but one thing I know for sure is that I killed god and I too died that moment.
+Is there such a thing called sin or it is a mere concept the religion created to keep humanity in order? Is “sin” just another pillar of religion, the same religion whose whole foundation I destroyed? Is there any moral principle left to guide me into the eternal truth or was there an actual moral principle to begin with? Is there anything in existence that has an inherent value?
+
+There are still many questions left unanswered, but one thing I know for sure is that *I killed god and I too died that moment.*
