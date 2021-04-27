@@ -4,14 +4,53 @@
 AUTHOR = 'Unique Karki'
 SITENAME = 'Unique Karki'
 SITEURL = ''
+SITEURL = 'http://localhost:8000'
+SITETITLE = 'Unique Karki'
+SITESUBTITLE = 'Ideas and Thoughts'
+FAVICON = '/content/extra/favicon.ico'
 
 PATH = 'content'
-STATIC_PATHS = ['extra', 'assets']
-	
-THEME = 'themes/attila'
-PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['sitemap', 'post_stats', 'feed_summary']
+STATIC_PATHS = ['images', 'extra']
 
+TIMEZONE = 'Asia/Kathmandu'
+
+DEFAULT_LANG = 'en'
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+# Plugin Path
+PLUGIN_PATHS = ['./pelican-plugins']
+
+#Plugins
+PLUGINS = ['sitemap', 'post_stats', 'feed_summary','neighbors', 'assets']
+  
+
+# Blogroll
+LINKS = (('Pelican', 'https://getpelican.com/'),
+         ('Python.org', 'https://www.python.org/'),
+         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
+         ('You can modify those links in your config file', '#'),)
+
+# Social widge
+SOCIAL = (('twitter', 'https://twitter.com/karki_nick'),
+          ('github', 'https://github.com/uniquekarki'),
+          ('facebook','https://www.facebook.com/unique.karki.90s'),
+          ('linkedin','https://www.linkedin.com/in/unique-karki/'),
+          ('envelope','mailto:unikarki@gmail.com'))	
+
+THEME = 'themes/attila'
+
+HOME_COVER = 'https://i.pinimg.com/originals/ad/68/aa/ad68aaf3aba030a1386f72a3b7162024.jpg'
+
+HOME_COLOR = 'black'
+COLOR_SCHEME_CSS = 'github.css'
+
+DEFAULT_PAGINATION = 5
 
 # Sitemap Settings
 SITEMAP = {
@@ -27,47 +66,6 @@ SITEMAP = {
         'pages': 'monthly',
     }
 }
-
-HOME_COVER = 'https://i.pinimg.com/originals/ad/68/aa/ad68aaf3aba030a1386f72a3b7162024.jpg'
-
-HOME_COLOR = 'black'
-COLOR_SCHEME_CSS = 'github.css'
-
-TIMEZONE = 'Asia/Kathmandu'
-
-DEFAULT_LANG = 'en'
-
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
-# Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('twitter', 'https://twitter.com/karki_nick'),
-          ('github', 'https://github.com/uniquekarki'),
-          ('facebook','https://www.facebook.com/unique.karki.90s'),
-          ('linkedin','https://www.linkedin.com/in/unique-karki/'),
-          ('envelope','mailto:unikarki@gmail.com'))
-
-EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'}
-}
-
-
-DEFAULT_PAGINATION = 5
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
-
 
 # Main Menu Items
 MAIN_MENU = True
@@ -96,3 +94,6 @@ AUTHOR_FEED_RSS = None
 
 # HOME_HIDE_TAGS = True
 FEED_USE_SUMMARY = True
+
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True
