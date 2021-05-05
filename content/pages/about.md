@@ -7,6 +7,7 @@ Undergrad Student, <br>
 [Kathmandu University](https://ku.edu.np/), Dhulikhel, Nepal
 
 Hello! I’m Unique Karki. I'm an undergrad student studying computer science at Kathmandu University. I'm interested in the field of Artificial Intelligence and would like to persue career in it. I have done a few projects in prediction system, Nepali Speech Recognition System, Face Recognition and Web Development. 
+
 ---
 
 Apart from acamedics, I am fond of music. I play few musical instruments such as guitar, harmonium, madal and flute. I'm also trying to learn French for fun in my free time.
