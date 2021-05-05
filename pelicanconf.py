@@ -10,7 +10,7 @@ SITESUBTITLE = 'Ideas and Thoughts'
 FAVICON = '/content/extra/favicon.ico'
 
 PATH = 'content'
-STATIC_PATHS = ['images', 'extra']
+STATIC_PATHS = ['images', 'extra', 'pdfs']
 
 TIMEZONE = 'Asia/Kathmandu'
 
