@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-
+# Measurement ID : G-B5GZZHJDSG
 AUTHOR = 'Unique Karki'
 SITENAME = 'Unique Karki'
 SITEURL = ''
@@ -11,6 +11,8 @@ FAVICON = '/content/extra/favicon.ico'
 
 PATH = 'content'
 STATIC_PATHS = ['images', 'extra', 'pdfs']
+
+ICONS_PATH = 'images/icons'
 
 TIMEZONE = 'Asia/Kathmandu'
 

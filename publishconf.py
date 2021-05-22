@@ -14,11 +14,13 @@ SITEURL = 'https://uniquekarki.com.np'
 DOMAIN = SITEURL
 FEED_DOMAIN = SITEURL
 HTTPS = True
-
+GOOGLE_ANALYTICS = "UA-197667721-1"
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+
+DISQUS_SITENAME = 'uniqueblog-2'
 
 DELETE_OUTPUT_DIRECTORY = True
 
