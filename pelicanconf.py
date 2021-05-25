@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'unique karki'
-SITENAME = 'Ideas and Thoughts'
+SITENAME = 'Inside My Brain'
 SITEURL = ''
 SITEURL = 'http://localhost:8000'
 # SITETITLE = 'Unique Karki'
