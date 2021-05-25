@@ -100,7 +100,7 @@ AUTHORS_BIO = {
     "linkedin": "unique-karki",
     "github": "uniquekarki",
     "location": "Kathmandu",
-    "bio": "Hello, I'm Unique Karki."
+    "bio": "Hi. I like programming and thinking about the absudities of life."
   }
 }
 
