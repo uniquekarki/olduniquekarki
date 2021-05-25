@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-# Measurement ID : G-B5GZZHJDSG
-AUTHOR = 'Unique Karki'
-SITENAME = 'Unique Karki'
+
+AUTHOR = 'unique karki'
+SITENAME = 'Ideas and Thoughts'
 SITEURL = ''
 SITEURL = 'http://localhost:8000'
-SITETITLE = 'Unique Karki'
-SITESUBTITLE = 'Ideas and Thoughts'
+# SITETITLE = 'Unique Karki'
+# SITESUBTITLE = 'Ideas and Thoughts'
 FAVICON = '/content/extra/favicon.ico'
 
 PATH = 'content'
@@ -86,6 +86,24 @@ ARCHIVES_SAVE_AS = 'archives.html'
 YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 
+# Author
+AUTHOR_URL = 'author/{slug}'
+AUTHOR_SAVE_AS = 'author/{slug}/index.html'
+AUTHORS_SAVE_AS = 'authors.html'
+
+AUTHORS_BIO = {
+  "unique karki": {
+    "name": "Unique Karki",
+    #"cover": "https://casper.ghost.org/v1.0.0/images/team.jpg",
+    "image": "images/potrait.jpg",
+    "website": "http://uniquekarki.com.np",
+    "linkedin": "unique-karki",
+    "github": "uniquekarki",
+    "location": "Kathmandu",
+    "bio": "Hello, I'm Unique Karki."
+  }
+}
+
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -97,5 +115,7 @@ AUTHOR_FEED_RSS = None
 # HOME_HIDE_TAGS = True
 FEED_USE_SUMMARY = True
 
+#Custom Tag
+AUTHOR_NAME = 'unique karki'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
