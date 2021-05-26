@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'unique karki'
-SITENAME = 'Inside My Brain'
+SITENAME = 'Unique Karki'
 SITEURL = ''
 SITEURL = 'http://localhost:8000'
 # SITETITLE = 'Unique Karki'
@@ -117,5 +117,6 @@ FEED_USE_SUMMARY = True
 
 #Custom Tag
 AUTHOR_NAME = 'unique karki'
+TITLE_PAGE = 'Inside My Brain'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
