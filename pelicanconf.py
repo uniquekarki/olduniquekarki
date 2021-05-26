@@ -96,7 +96,7 @@ AUTHORS_BIO = {
     "name": "Unique Karki",
     #"cover": "https://casper.ghost.org/v1.0.0/images/team.jpg",
     "image": "images/potrait.jpg",
-    "website": "http://uniquekarki.com.np",
+    "twitter": "karki_nick",
     "linkedin": "unique-karki",
     "github": "uniquekarki",
     "location": "Kathmandu",
