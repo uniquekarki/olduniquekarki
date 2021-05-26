@@ -4,91 +4,91 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://localhost:8000/</loc>
-<lastmod>2021-05-26T10:35:05-00:00</lastmod>
+<loc>https://uniquekarki.com.np/</loc>
+<lastmod>2021-05-26T10:36:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tags.html</loc>
-<lastmod>2021-05-26T10:35:05-00:00</lastmod>
+<loc>https://uniquekarki.com.np/tags.html</loc>
+<lastmod>2021-05-26T10:36:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/categories.html</loc>
-<lastmod>2021-05-26T10:35:05-00:00</lastmod>
+<loc>https://uniquekarki.com.np/categories.html</loc>
+<lastmod>2021-05-26T10:36:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/authors.html</loc>
-<lastmod>2021-05-26T10:35:05-00:00</lastmod>
+<loc>https://uniquekarki.com.np/authors.html</loc>
+<lastmod>2021-05-26T10:36:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/archives.html</loc>
-<lastmod>2021-05-26T10:35:05-00:00</lastmod>
+<loc>https://uniquekarki.com.np/archives.html</loc>
+<lastmod>2021-05-26T10:36:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/about/</loc>
+<loc>https://uniquekarki.com.np/about/</loc>
 <lastmod>2021-04-17T08:00:00+05:45</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/contact/</loc>
+<loc>https://uniquekarki.com.np/contact/</loc>
 <lastmod>2020-03-18T03:27:00+05:45</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/2021/04/nihilistic-visions/</loc>
+<loc>https://uniquekarki.com.np/2021/04/nihilistic-visions/</loc>
 <lastmod>2021-04-23T09:32:00+05:45</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/category/blog.html</loc>
+<loc>https://uniquekarki.com.np/category/blog.html</loc>
 <lastmod>2021-04-23T09:32:00+05:41</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/philosophy.html</loc>
+<loc>https://uniquekarki.com.np/tag/philosophy.html</loc>
 <lastmod>2021-04-23T09:32:00+05:41</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/nihilism.html</loc>
+<loc>https://uniquekarki.com.np/tag/nihilism.html</loc>
 <lastmod>2021-04-23T09:32:00+05:41</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/dream.html</loc>
+<loc>https://uniquekarki.com.np/tag/dream.html</loc>
 <lastmod>2021-04-23T09:32:00+05:41</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/author/unique-karki</loc>
+<loc>https://uniquekarki.com.np/author/unique-karki</loc>
 <lastmod>2021-04-23T09:32:00+05:41</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
