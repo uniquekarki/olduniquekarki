@@ -6,7 +6,7 @@ Slug: questions
 Authors: Unique Karki
 Summary: Importance of questions in life
 Status: published
-cover: https://trentsworldblog.files.wordpress.com/2017/01/thinker-bw.jpg
+cover: https://www.gpstrategies.com/wp-content/uploads/2019/08/Blog-Even-Socrates-went-to-the-Marketplace-Soft-Skills-for-ISDs-and-Other-Thinkers-Ado_305561764-scaled.jpeg
 
 >Who are we if not for our questions?<br>
 >Where would humanity be if we were afraid to ask questions?<br> 
