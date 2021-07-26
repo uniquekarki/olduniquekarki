@@ -6,13 +6,13 @@ Slug: questions
 Authors: Unique Karki
 Summary: Importance of questions in life
 Status: published
-cover: https://wallpapercave.com/wp/wp8327907.jpg
+cover: https://trentsworldblog.files.wordpress.com/2017/01/thinker-bw.jpg
 
->Who are we if not for our questions? 
->Where would humanity be if we were afraid to ask questions? 
->Can humans progress any further if essential questions remain unasked?
->Can we know about ourselves if we are incapable of questioning about the self?
->How can we know about our existence?
+>Who are we if not for our questions?<br>
+>Where would humanity be if we were afraid to ask questions?<br> 
+>Can humans progress any further if essential questions remain unasked?<br>
+>Can we know about ourselves if we are incapable of questioning about the self?<br>
+>How can we know about our existence?<br>
 
 Pondering over these questions will only scratch the surface of the importance of questioning.
 

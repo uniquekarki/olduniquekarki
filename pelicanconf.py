@@ -120,3 +120,6 @@ AUTHOR_NAME = 'unique karki'
 TITLE_PAGE = 'Inside My Brain'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+HEADER_COVERS_BY_TAG = {'general':'https://casper.ghost.org/v1.0.0/images/writing.jpg'}
+HEADER_COVERS_BY_CATEGORY = {'blog': 'https://casper.ghost.org/v1.0.0/images/writing.jpg'}
