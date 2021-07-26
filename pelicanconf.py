@@ -121,5 +121,5 @@ TITLE_PAGE = 'Inside My Brain'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-HEADER_COVERS_BY_TAG = {'general':'https://casper.ghost.org/v1.0.0/images/writing.jpg'}
-HEADER_COVERS_BY_CATEGORY = {'blog': 'https://casper.ghost.org/v1.0.0/images/writing.jpg'}
+HEADER_COVERS_BY_TAG = {'philosophy':'https://i.pinimg.com/originals/ad/68/aa/ad68aaf3aba030a1386f72a3b7162024.jpg'}
+HEADER_COVERS_BY_CATEGORY = {'blog': 'https://i.pinimg.com/originals/ad/68/aa/ad68aaf3aba030a1386f72a3b7162024.jpg'}
